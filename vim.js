@@ -9,8 +9,8 @@ function updateSelection() {
 
 document.addEventListener("keydown", (event) => {
   switch (event.key) {
-    case "o":
-    case "O":
+    // case "o":
+    // case "O":
     case "Enter":
     case " ":  // execute selection
       event.preventDefault();
