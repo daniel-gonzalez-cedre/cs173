@@ -213,10 +213,10 @@
     margin: 1.2em 0px 0px 0px;
     /* margin: 0px; */
   }
-  .file#directory {
+  .file#dir {
     color: var(--grey);
   }
-  .file p#directory {
+  .file p#dir {
     color: var(--grey);
     margin-right: -8px;
     white-space: nowrap;
