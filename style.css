@@ -302,7 +302,7 @@
     display: block !important;
   }
 
-  .selected, .selected a {
+  .selected, .selected a, .selected s {
     color: var(--beige);
     background: var(--red);
   }
@@ -322,6 +322,10 @@
     color: var(--black);
     white-space: nowrap;
     text-decoration: none;
+  }
+
+  s {
+    color: var(--red);
   }
 
   /* PAR */
